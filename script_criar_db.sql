@@ -1,0 +1,1 @@
+CREATE database teste_aula120624;
